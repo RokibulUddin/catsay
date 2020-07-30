@@ -1,4 +1,5 @@
 # catsay
+```
 Hello World!
     \
      \
@@ -24,4 +25,6 @@ I'm dead...
      |            |
       \  ||  ||  /
        \_oo__oo_/#######o
-
+```
+## License
+[Apache License 2.0](https://github.com/riki420/catsay/blob/master/LICENSE) 
